@@ -2,7 +2,7 @@
 
     namespace app\traits;
 
-    trait Read {
+    trait Monitor {
 
         public function monitor($returnAll = true) {
 
